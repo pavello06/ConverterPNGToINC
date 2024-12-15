@@ -1,0 +1,10 @@
+C:\BSUIR\#Projects\ConverterPNGToINC\ConverterPNGToINC\bin\Debug\ConverterPNGToINC.exe.config
+C:\BSUIR\#Projects\ConverterPNGToINC\ConverterPNGToINC\bin\Debug\ConverterPNGToINC.exe
+C:\BSUIR\#Projects\ConverterPNGToINC\ConverterPNGToINC\bin\Debug\ConverterPNGToINC.pdb
+C:\BSUIR\#Projects\ConverterPNGToINC\ConverterPNGToINC\obj\Debug\ConverterPNGToINC.csproj.AssemblyReference.cache
+C:\BSUIR\#Projects\ConverterPNGToINC\ConverterPNGToINC\obj\Debug\ConverterPNGToINC.Properties.Resources.resources
+C:\BSUIR\#Projects\ConverterPNGToINC\ConverterPNGToINC\obj\Debug\ConverterPNGToINC.csproj.GenerateResource.cache
+C:\BSUIR\#Projects\ConverterPNGToINC\ConverterPNGToINC\obj\Debug\ConverterPNGToINC.csproj.CoreCompileInputs.cache
+C:\BSUIR\#Projects\ConverterPNGToINC\ConverterPNGToINC\obj\Debug\ConverterPNGToINC.exe
+C:\BSUIR\#Projects\ConverterPNGToINC\ConverterPNGToINC\obj\Debug\ConverterPNGToINC.pdb
+C:\BSUIR\#Projects\ConverterPNGToINC\ConverterPNGToINC\obj\Debug\ConverterPNGToINC.MainForm.resources
